@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Techwork_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Client_Table">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Gender" Type="varchar" MaxLength="15" />
+    <Property Name="Business_Name" Type="varchar" MaxLength="100" />
+    <Property Name="Phone" Type="varchar" MaxLength="20" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="100" />
+    <Property Name="Saving_Date" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Developer">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Gender" Type="varchar" MaxLength="15" />
+    <Property Name="Highest_Qualification" Type="varchar" MaxLength="20" />
+    <Property Name="Experience_Year" Type="int" />
+    <Property Name="Phone" Type="varchar" MaxLength="20" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Skills" Type="varchar" MaxLength="150" />
+    <Property Name="Photo" Type="varchar" MaxLength="200" />
+    <Property Name="Address" Type="varchar" MaxLength="200" />
+    <Property Name="Saving_Date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Enquiry">
+    <Key>
+      <PropertyRef Name="EnquiryId" />
+    </Key>
+    <Property Name="EnquiryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="60" />
+    <Property Name="Phone" Type="varchar" MaxLength="20" />
+    <Property Name="Query" Type="varchar" MaxLength="500" />
+    <Property Name="EnquiryDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Feedback">
+    <Key>
+      <PropertyRef Name="FeedbackId" />
+    </Key>
+    <Property Name="FeedbackId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FeedbackTitle" Type="varchar" MaxLength="100" />
+    <Property Name="Description" Type="varchar" MaxLength="500" />
+    <Property Name="UserId" Type="varchar" MaxLength="100" />
+    <Property Name="Feedback_DT" Type="datetime" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ForgotPassword">
+    <Key>
+      <PropertyRef Name="ForgotId" />
+    </Key>
+    <Property Name="ForgotId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="varchar" MaxLength="150" />
+    <Property Name="Code" Type="int" />
+    <Property Name="Issued" Type="bit" />
+    <Property Name="Date_TIme" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserType" Type="varchar" MaxLength="50" />
+    <Property Name="UserId" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Pass" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Notification">
+    <Key>
+      <PropertyRef Name="NotificationsId" />
+    </Key>
+    <Property Name="NotificationsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Message" Type="varchar" MaxLength="500" />
+    <Property Name="Notification_Date" Type="datetime" />
+    <Property Name="PostedBy" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="PostedProject">
+    <Key>
+      <PropertyRef Name="ProjectId" />
+    </Key>
+    <Property Name="ProjectId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProjectTitle" Type="varchar" MaxLength="100" />
+    <Property Name="MaximumCost" Type="money" />
+    <Property Name="Deadline" Type="datetime" />
+    <Property Name="DescriptionOfProject" Type="varchar" MaxLength="300" />
+    <Property Name="Attachment" Type="varchar" MaxLength="300" />
+    <Property Name="Posted_On" Type="datetime" />
+    <Property Name="PostedBy" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="RequestedProjects">
+    <Key>
+      <PropertyRef Name="RequestId" />
+    </Key>
+    <Property Name="RequestId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Subject" Type="varchar" MaxLength="100" />
+    <Property Name="ProjectId" Type="int" />
+    <Property Name="Amount" Type="money" />
+    <Property Name="ExpectedSubmissionDate" Type="datetime" />
+    <Property Name="Remark" Type="varchar" MaxLength="300" />
+    <Property Name="Requested_On" Type="datetime" />
+    <Property Name="RequestedBy" Type="varchar" MaxLength="100" />
+    <Property Name="postedby" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="UploadProject">
+    <Key>
+      <PropertyRef Name="UploadId" />
+    </Key>
+    <Property Name="UploadId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UploadedBy" Type="varchar" MaxLength="100" />
+    <Property Name="Title" Type="varchar" MaxLength="100" />
+    <Property Name="Description" Type="varchar" MaxLength="500" />
+    <Property Name="FileName" Type="varchar" MaxLength="200" />
+    <Property Name="Uploaded_On" Type="datetime" />
+    <Property Name="thisclient" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="Techwork_DBModelStoreContainer">
+    <EntitySet Name="Client_Table" EntityType="Self.Client_Table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Developer" EntityType="Self.Developer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Enquiry" EntityType="Self.Enquiry" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Feedback" EntityType="Self.Feedback" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ForgotPassword" EntityType="Self.ForgotPassword" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Login" EntityType="Self.Login" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Notification" EntityType="Self.Notification" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PostedProject" EntityType="Self.PostedProject" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RequestedProjects" EntityType="Self.RequestedProjects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UploadProject" EntityType="Self.UploadProject" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

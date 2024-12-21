@@ -1,0 +1,232 @@
+E:\.net\task\Techwork\Techwork\bin\Techwork.dll.config
+E:\.net\task\Techwork\Techwork\bin\Techwork.dll
+E:\.net\task\Techwork\Techwork\bin\Techwork.pdb
+E:\.net\task\Techwork\Techwork\bin\roslyn\csc.exe
+E:\.net\task\Techwork\Techwork\bin\roslyn\csc.exe.config
+E:\.net\task\Techwork\Techwork\bin\roslyn\csc.rsp
+E:\.net\task\Techwork\Techwork\bin\roslyn\csi.exe
+E:\.net\task\Techwork\Techwork\bin\roslyn\csi.exe.config
+E:\.net\task\Techwork\Techwork\bin\roslyn\csi.rsp
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.net\task\Techwork\Techwork\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.AppContext.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Collections.Immutable.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Console.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Globalization.Calendars.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.IO.Compression.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.IO.FileSystem.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Net.Http.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Net.Sockets.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Reflection.Metadata.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.ValueTuple.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Xml.XPath.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.net\task\Techwork\Techwork\bin\roslyn\vbc.exe
+E:\.net\task\Techwork\Techwork\bin\roslyn\vbc.exe.config
+E:\.net\task\Techwork\Techwork\bin\roslyn\vbc.rsp
+E:\.net\task\Techwork\Techwork\bin\roslyn\VBCSCompiler.exe
+E:\.net\task\Techwork\Techwork\bin\roslyn\VBCSCompiler.exe.config
+E:\.net\task\Techwork\Techwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.net\task\Techwork\Techwork\bin\Microsoft.Web.Infrastructure.dll
+E:\.net\task\Techwork\Techwork\bin\System.Web.Helpers.dll
+E:\.net\task\Techwork\Techwork\bin\System.Web.Mvc.dll
+E:\.net\task\Techwork\Techwork\bin\System.Web.Razor.dll
+E:\.net\task\Techwork\Techwork\bin\System.Web.Webpages.Deployment.dll
+E:\.net\task\Techwork\Techwork\bin\System.Web.Webpages.dll
+E:\.net\task\Techwork\Techwork\bin\System.Web.Webpages.Razor.dll
+E:\.net\task\Techwork\Techwork\bin\System.Web.Razor.xml
+E:\.net\task\Techwork\Techwork\bin\System.Web.Webpages.xml
+E:\.net\task\Techwork\Techwork\bin\System.Web.Webpages.Deployment.xml
+E:\.net\task\Techwork\Techwork\bin\System.Web.Webpages.Razor.xml
+E:\.net\task\Techwork\Techwork\bin\System.Web.Helpers.xml
+E:\.net\task\Techwork\Techwork\bin\System.Web.Mvc.xml
+E:\.net\task\Techwork\Techwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.net\task\Techwork\Techwork\obj\Debug\Techwork.csproj.AssemblyReference.cache
+E:\.net\task\Techwork\Techwork\obj\Debug\Techwork.csproj.CoreCompileInputs.cache
+E:\.net\task\Techwork\Techwork\obj\Debug\Techwork.csproj.CopyComplete
+E:\.net\task\Techwork\Techwork\obj\Debug\Techwork.dll
+E:\.net\task\Techwork\Techwork\obj\Debug\Techwork.pdb
+E:\Techwork\Techwork\bin\Techwork.dll.config
+E:\Techwork\Techwork\bin\Techwork.dll
+E:\Techwork\Techwork\bin\Techwork.pdb
+E:\Techwork\Techwork\bin\roslyn\csc.exe
+E:\Techwork\Techwork\bin\roslyn\csc.exe.config
+E:\Techwork\Techwork\bin\roslyn\csc.rsp
+E:\Techwork\Techwork\bin\roslyn\csi.exe
+E:\Techwork\Techwork\bin\roslyn\csi.exe.config
+E:\Techwork\Techwork\bin\roslyn\csi.rsp
+E:\Techwork\Techwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Techwork\Techwork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Techwork\Techwork\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Techwork\Techwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Techwork\Techwork\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Techwork\Techwork\bin\roslyn\System.AppContext.dll
+E:\Techwork\Techwork\bin\roslyn\System.Collections.Immutable.dll
+E:\Techwork\Techwork\bin\roslyn\System.Console.dll
+E:\Techwork\Techwork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Techwork\Techwork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Techwork\Techwork\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Techwork\Techwork\bin\roslyn\System.Globalization.Calendars.dll
+E:\Techwork\Techwork\bin\roslyn\System.IO.Compression.dll
+E:\Techwork\Techwork\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Techwork\Techwork\bin\roslyn\System.IO.FileSystem.dll
+E:\Techwork\Techwork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Techwork\Techwork\bin\roslyn\System.Net.Http.dll
+E:\Techwork\Techwork\bin\roslyn\System.Net.Sockets.dll
+E:\Techwork\Techwork\bin\roslyn\System.Reflection.Metadata.dll
+E:\Techwork\Techwork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Techwork\Techwork\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Techwork\Techwork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Techwork\Techwork\bin\roslyn\System.ValueTuple.dll
+E:\Techwork\Techwork\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Techwork\Techwork\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Techwork\Techwork\bin\roslyn\System.Xml.XPath.dll
+E:\Techwork\Techwork\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Techwork\Techwork\bin\roslyn\vbc.exe
+E:\Techwork\Techwork\bin\roslyn\vbc.exe.config
+E:\Techwork\Techwork\bin\roslyn\vbc.rsp
+E:\Techwork\Techwork\bin\roslyn\VBCSCompiler.exe
+E:\Techwork\Techwork\bin\roslyn\VBCSCompiler.exe.config
+E:\Techwork\Techwork\bin\EntityFramework.dll
+E:\Techwork\Techwork\bin\EntityFramework.SqlServer.dll
+E:\Techwork\Techwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Techwork\Techwork\bin\Microsoft.Web.Infrastructure.dll
+E:\Techwork\Techwork\bin\System.Web.Helpers.dll
+E:\Techwork\Techwork\bin\System.Web.Mvc.dll
+E:\Techwork\Techwork\bin\System.Web.Razor.dll
+E:\Techwork\Techwork\bin\System.Web.Webpages.Deployment.dll
+E:\Techwork\Techwork\bin\System.Web.Webpages.dll
+E:\Techwork\Techwork\bin\System.Web.Webpages.Razor.dll
+E:\Techwork\Techwork\bin\EntityFramework.xml
+E:\Techwork\Techwork\bin\EntityFramework.SqlServer.xml
+E:\Techwork\Techwork\bin\System.Web.Razor.xml
+E:\Techwork\Techwork\bin\System.Web.Webpages.xml
+E:\Techwork\Techwork\bin\System.Web.Webpages.Deployment.xml
+E:\Techwork\Techwork\bin\System.Web.Webpages.Razor.xml
+E:\Techwork\Techwork\bin\System.Web.Helpers.xml
+E:\Techwork\Techwork\bin\System.Web.Mvc.xml
+E:\Techwork\Techwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Techwork\Techwork\obj\Debug\Techwork.csproj.AssemblyReference.cache
+E:\Techwork\Techwork\obj\Debug\Techwork.csproj.CoreCompileInputs.cache
+E:\Techwork\Techwork\obj\Debug\Techwork.csproj.CopyComplete
+E:\Techwork\Techwork\obj\Debug\Techwork.dll
+E:\Techwork\Techwork\obj\Debug\Techwork.pdb
+E:\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+E:\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+E:\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+E:\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Techwork.dll.config
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Techwork.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Techwork.pdb
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\csc.exe
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\csc.exe.config
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\csc.rsp
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\csi.exe
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\csi.exe.config
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\csi.rsp
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.AppContext.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Console.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.IO.Compression.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Net.Http.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.ValueTuple.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\vbc.exe
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\vbc.exe.config
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\vbc.rsp
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\EntityFramework.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\EntityFramework.SqlServer.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Helpers.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Mvc.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Razor.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Webpages.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Webpages.Razor.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\EntityFramework.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\EntityFramework.SqlServer.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Razor.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Webpages.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Webpages.Razor.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Helpers.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\System.Web.Mvc.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\obj\Debug\Techwork.csproj.AssemblyReference.cache
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\obj\Debug\Techwork.csproj.CoreCompileInputs.cache
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\obj\Debug\Techwork.csproj.CopyComplete
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\obj\Debug\Techwork.dll
+C:\Users\SN PRINTERS\Desktop\Techwork\Techwork\obj\Debug\Techwork.pdb
